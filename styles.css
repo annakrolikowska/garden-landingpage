@@ -413,7 +413,7 @@ h4 {
     }
 
 
-    .w-50 {
+    .w-50, .w-25 {
         width: 100%!important;
     }
 
@@ -428,6 +428,15 @@ h4 {
     .contact-text-container p {
         font-size: 30px;
         line-height: 95%;
+    }
+
+    .footer-container > :nth-child(2)  {
+        margin-bottom: 0;
+    }
+
+    .footer-items-container {
+        gap: 2rem;
+        margin-bottom: 3.5rem;
     }
 }
 
