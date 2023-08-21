@@ -1,7 +1,7 @@
 # 🌻 Garden Landing Page
 
 
-<img src='https://i.ibb.co/jJRLyHn/giard.png'> 
+<img src='https://i.ibb.co/10h0TV1/image-22.png'> 
 
 
  The landing page for a garden design website, built using HTML, CSS + Bootstrap, and JavaScript. The design was translated from a Figma project (originally created by adRespect). The landing page consists of several sections. The page features scroll-triggered animations that enhance the user experience while navigating through the content.
